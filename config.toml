@@ -1,6 +1,7 @@
-baseURL = "https://charlesmisback.netlify.app/"
+#baseURL = "https://charlesmisback.netlify.app/"
+baseURL = "localhost:1313"
 title = "My Portfolio Title"
-theme = "PaperMod"
+theme = "hugo-goa"
 
 # Theme configuration
 [params]
