@@ -1,7 +1,7 @@
 #baseURL = "https://charlesmisback.netlify.app/"
 baseURL = "localhost:1313"
 title = "My Portfolio Title"
-theme = "hugo-goa"
+theme = "kross-hugo"
 
 # Theme configuration
 [params]
