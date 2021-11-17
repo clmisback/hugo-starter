@@ -2,6 +2,7 @@
 
 This repository contains a template that uses [Netlify](https://www.netlify.com/), [Hugo](https://gohugo.io/), and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) Hugo theme. Read the the `README.md` file below for step-by-step instructions to get a personal portfolio website up and running.
 
+
 ## Step 1: Deploy this template
 
 To start using this template, deploy it to [Netlify](https://www.netlify.com/) with the button below.
