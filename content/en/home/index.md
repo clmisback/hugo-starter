@@ -1,6 +1,8 @@
 ---
-title: "Hi, I'm Introduction"
+title: "Hey"
 headless: true
 ---
 
-I'm a theme for Hugo
+I'm Charles Misback
+
+*Computer Science Major, Philosophy Minor*
