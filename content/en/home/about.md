@@ -9,5 +9,6 @@ This is a website about me, my accomplishments, and my aspirations.
 ### Introduction
 
 * Born in Florida, raised around Pittsburgh
-* Pine-Richland High School alumni class of 2017
+* Pine-Richland High School class of 2017
 * Aspiring Software Engineer with a focus in the cloud
+* Transferred from RIT to Allegheny College after second year at RIT
