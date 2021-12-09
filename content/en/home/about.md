@@ -1,14 +1,13 @@
 ---
 title: "About"
-image: "profile.jpg"
+image: "crane.png"
 weight: 8
 ---
 
-This is a website about me, my accomplishments, and my aspirations.
+This is a website about **me**, my **accomplishments**, and my **aspirations**.
 
 ### Introduction
 
-* Born in Florida, raised around Pittsburgh
-* Pine-Richland High School class of 2017
-* Aspiring Software Engineer with a focus in the cloud
-* Transferred from RIT to Allegheny College after second year at RIT
+I'm a transfer student originally attending **RIT** but finishing out my secondary education at **Allegheny College**. I was born in Florida but raised near Pittsbugh where I graduated from Pine-Richland High School in 2017.
+
+I aspire to be a **Software Engineer** focusing on the cloud and to help bring this technology to those less fortunate.
