@@ -13,6 +13,8 @@ A **P2P** file sharing network is used to showcase the scalability, stability, a
 
 Currently ongoing – the final thesis will be finished by May 2022
 
+**-------------------------**
+
 #### Gator Computational Cloud (GCC)
 
 [Github Link](https://github.com/Gator-Computational-Cloud/charles_submission)
@@ -20,6 +22,8 @@ Currently ongoing – the final thesis will be finished by May 2022
 **GCC** is a lightweight web framework that utilizes the **BHEFT scheduling algorithm** to schedule jobs in a cloud environment. The goal of the project is to provide a light weight and user friendly environment for workflow execution, while also ensuring a powerful and efficient backend which completes a users workflow with ease.
 
 Worked in cooperation with a fellow student and professor
+
+**-------------------------**
 
 #### College CS Projects
 
