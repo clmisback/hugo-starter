@@ -3,22 +3,26 @@ title: "Projects"
 weight: 30
 ---
 
-#### Undergraduate Thesis
+#### The Capabilities of Peer-to-Peer Technologies - Undergraduate Thesis
 
 [Github Link](https://github.com/clmisback/P2P-Implementation)
 
 **-------------------------**
+Aug 2021 - May 2022
+**-------------------------**
 
-A year long endeavor to showcase the advantages of **Peer-to-Peer** technology (P2P).
+Year long endeavor to showcase the capabilities of **Peer-to-Peer** technology (P2P) through the creation of a **P2P** file sharing network. It was use to showcase the scalability, stability, and efficiency it possesses versus a traditional **client-server** network.
 
-A **P2P** file sharing network is used to showcase the scalability, stability, and effiency it possesses versus a traditional **client-server** network.
+A comprehensive 38 page paper was written to describe the **P2P** network and analyze the experimental results.
 
-Currently ongoing – the final thesis will be finished by May 2022
+<p><a href="/home/media/SeniorThesis.pdf">Download</a></p>
 
 #### Gator Computational Cloud (GCC)
 
 [Github Link](https://github.com/Gator-Computational-Cloud/charles_submission)
 
+**-------------------------**
+Oct 2020 - May 2021
 **-------------------------**
 
 **GCC** is a lightweight web framework that utilizes the **BHEFT scheduling algorithm** to schedule jobs in a cloud environment. The goal of the project is to provide a light weight and user friendly environment for workflow execution, while also ensuring a powerful and efficient backend which completes a users workflow with ease.

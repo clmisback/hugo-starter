@@ -100,9 +100,9 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "Introduction"
+        title            = "Charles Misback's website"
         [languages.en.params]
-            description  = "Website Description"   # Max 160 characters show in search results
+            description  = "Charles Misback's website. Education and acomplishments etc."   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
 
 #    [languages.es]
