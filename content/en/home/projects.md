@@ -8,7 +8,7 @@ weight: 30
 [Github Link](https://github.com/clmisback/P2P-Implementation)
 
 **-------------------------**
-Aug 2021 - May 2022
+Sep 2021 - May 2022
 **-------------------------**
 
 Year long endeavor to showcase the capabilities of **Peer-to-Peer** technology (P2P) through the creation of a **P2P** file sharing network. It was use to showcase the scalability, stability, and efficiency it possesses versus a traditional **client-server** network.
@@ -33,6 +33,8 @@ Worked in cooperation with a fellow student and professor
 
 #### College CS Projects
 
+**-------------------------**
+Sep 2017 - May 2022
 **-------------------------**
 
 Contributed to **Zulip** (a chatting platform based on electron)
